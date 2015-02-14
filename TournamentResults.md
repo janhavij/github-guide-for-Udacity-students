@@ -9,4 +9,4 @@ Students will develop a database schema to store the game matches between player
 5. Write Python functions filling out a template of an API (`tournament.py`)
 6. Run a test suite to verify your code (`tournament_test.py`)
 
-For complete project details, make sure you check out <a href="https://www.udacity.com/course/viewer#!/c-ud197-nd/l-3521918727/m-3554068605" target="_blank">Lesson 5</a> of the Intro to Relational Databases course, including the <a href="https://www.udacity.com/course/viewer#!/c-ud197-nd/l-3521918727/m-3519689284" target="_blank">Project Description</a>.
+For complete project details, make sure you check out <a href="https://www.udacity.com/course/viewer#!/c-ud197/l-3521918727/m-3554068605" target="_blank">Lesson 5</a> of the Intro to Relational Databases course, including the <a href="https://www.udacity.com/course/viewer#!/c-ud197/l-3521918727/m-3519689284" target="_blank">Project Description</a>.
